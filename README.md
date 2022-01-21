@@ -5,7 +5,7 @@ Markov Logic Networks
 
 The repository is for the course project for Statistics course, CU Boulder. If any additional resources were used for specific implementation, it is provided in the respective implementation file. The code provided here is implicitly expected not to be replicated for homeworks, assignments or any other programming work. It is welcome to take inspiration, but it is implicitly expected to cite this resource if used for learning, inspiration purposes. Please refer code of conduct.
 
-References for this study:
+Reference materials for the study:
 * <a href="https://people.eecs.berkeley.edu/~russell/papers/cacm15-oupm.pdf">https://people.eecs.berkeley.edu/~russell/papers/cacm15-oupm.pdf</a>
 * <a href="https://arxiv.org/pdf/1809.10756.pdf">https://arxiv.org/pdf/1809.10756.pdf</a>
 * <a href="https://www.youtube.com/watch?v=TRBBlJHnxaQ">https://www.youtube.com/watch?v=TRBBlJHnxaQ</a>
