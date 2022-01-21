@@ -3,7 +3,7 @@ Markov Logic Networks
 * Goal: to learn about Markov Logic networks and underlying literature, theory and basic implementation and intuition.
 * Result: to demonstrate the learning by attempting to explain what is learnt in a simpler and easy-to-understand approach with an example implementation.
 
-The repository is for the course project for Statistics course, CU Boulder. If any additional resources were used for specific implementation, it is provided in the respective implementation file. The code provided here is implicitly expected not to be replicated for homeworks, assignments or any other programming work. It is welcome to take inspiration, but it is implicitly expected to cite this resource if used for learning, inspiration purposes. Please refer code of conduct.
+The repository is for the course project for Statistics course, CU Boulder. If any additional resources were used for specific implementation, it is provided in the respective implementation file. The code provided here is implicitly expected not to be replicated for homeworks, assignments or any other programming work. It is welcome to take inspiration, but it is implicitly expected to cite this resource if used for learning, inspiration purposes. Please refer <a href="https://github.com/sushmaakoju/markov-logic-networks/blob/main/CODE_OF_CONDUCT.md">code of conduct</a>.
 
 Reference materials for the study:
 * <a href="https://people.eecs.berkeley.edu/~russell/papers/cacm15-oupm.pdf">https://people.eecs.berkeley.edu/~russell/papers/cacm15-oupm.pdf</a>
