@@ -16,4 +16,4 @@ Reference materials for the study:
 
 Note:
 ### Thanks to the professor and the MSDS program cohort for allowing me to study this topic by myself, which is also outside of the syllabus and curriculum of the course and program. 
-### Also this topic was chosen as part of my interest and long term study towards the subject of formal logic and machine learning since 2017.
+### Also this topic was chosen as part of my interest and long term study goal towards the subject of formal logic and machine learning since 2017.
