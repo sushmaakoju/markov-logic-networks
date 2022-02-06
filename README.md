@@ -15,4 +15,4 @@ Reference materials for the study:
 * <a href="https://web.cs.ucla.edu/~guyvdb/slides/IJCAI16EarlyCareer.pdf">https://web.cs.ucla.edu/~guyvdb/slides/IJCAI16EarlyCareer.pdf</a>
 
 Note:
-### Thanks to the professor, cohort for allowing me to study this topic by mysekf, which is also outside of the syllabus and curriculum of the course and program.
+### Thanks to the professor and the MSDS program cohort for allowing me to study this topic by mysekf, which is also outside of the syllabus and curriculum of the course and program.
